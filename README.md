@@ -47,5 +47,8 @@ I'm a Computer Science student interested in programming and web development.
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Enjajyothika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/enja-jyothika-305298304)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/EnjaJyothika/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/enjajyothika)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/enjajyo3dpi/)
