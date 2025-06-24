@@ -40,7 +40,7 @@ I'm a Computer Science student interested in programming and web development.
 
 ## 📈 GitHub Stats
 
-![Jyothika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enjajyothika&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enjajyothika&layout=compact&theme=radical)
 
 ---
