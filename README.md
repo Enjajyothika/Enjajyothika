@@ -9,7 +9,7 @@
 I'm a Computer Science student interested in programming and web development.  
 
 - 🌱 Learning web development and problem solving
-- 📚 Exploring C++, Python, React, and more
+- 📚 Exploring Python, React, and more
 - 📫 Reach me at: jyothika2494@gmail.com
 
 ---
@@ -17,8 +17,6 @@ I'm a Computer Science student interested in programming and web development.
 ## 🛠️ Skills
 
 ### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cpp)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=mysql)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
