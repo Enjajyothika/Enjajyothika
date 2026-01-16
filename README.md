@@ -1,6 +1,6 @@
 # Hi there, I'm Enja Jyothika 👋
 
-🎓 Computer Science Student | 💻 Web Developer | 📊 Problem Solver
+🎓 Computer Science Student| 📊 Problem Solver
 
 ---
 
@@ -19,7 +19,6 @@ I'm a Computer Science student interested in programming and web development.
 ### 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=mysql)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
